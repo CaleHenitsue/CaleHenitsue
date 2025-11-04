@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌠 Hi, I’m Kyaw Zay Ya 
+> “I can be anyone.” — that’s my motto
 
-<!--
-**CaleHenitsue/CaleHenitsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧭 Web Developer
+I enjoy creating interactive, meaningful web experiences and continuously learning new technologies.  
+*Studying and improving technology skills.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Knowledge Base 🛠️
+### 💻 Frontend
+`JavaScript` `HTML5` `CSS3` `Bootstrap` `TailwindCSS` `jQuery`
+
+### 📦 Package Managers
+`npm` 
+
+### 🧪 Testing
+`Jest`
+
+### 🔄 Version Control & CI/CD
+`Git` `GitHub`
+
+### ⚙️ IDE & Tools
+`Windows` `macOS`  
+`Sublime Text` `PyCharm`  
+`Windows Terminal` `Ubuntu` `Slack`
+
+---
+
+## 🤝 Contact Me
+🌐 **GitHub:** [calehenitsue](https://github.com/calehenitsue)  
+📫 **Email:** [kyawzaya3578@gmail.com](mailto:kyawzaya3578@gmail.com)
+
+---
+
+✨ *“Even a small belief can become a whole world if you keep it alive.”*
