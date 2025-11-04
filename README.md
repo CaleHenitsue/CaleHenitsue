@@ -34,4 +34,10 @@ I enjoy creating interactive, meaningful web experiences and continuously learni
 
 ---
 
+## 😄 Funny Fact
+> I once debugged for 3 hours just to realize I forgot a semicolon.  
+> Still, I told myself — *it’s character development.*
+
+---
+
 ✨ *“Even a small belief can become a whole world if you keep it alive.”*
