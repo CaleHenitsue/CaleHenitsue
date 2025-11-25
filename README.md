@@ -10,7 +10,7 @@ I enjoy creating interactive, meaningful web experiences and continuously learni
 
 ## 🧠 Knowledge Base 🛠️
 ### 💻 Frontend
-`JavaScript` `HTML5` `CSS3` `Bootstrap` `TailwindCSS` `jQuery`
+`JavaScript` `HTML5` `CSS3` `Python` `TailwindCSS` `Nextjs` `React` `Firebase` 
 
 ### 📦 Package Managers
 `npm` 
