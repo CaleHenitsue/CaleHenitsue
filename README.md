@@ -1,48 +1,53 @@
 # ⚫ Kyaw Zay Ya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Web+Developer;Future+Full-Stack+Engineer;Building+with+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Web+Developer;Future+Full-Stack+Engineer;Building+with+Precision;I+Can+Be+Anyone" />
 </p>
 
 <p align="center">
-  <em>"I can be anyone."</em>
+  <em>Discipline • Consistency • Evolution</em>
 </p>
 
 ---
 
-## 🧠 Profile
+## 🧠 Identity
 
-Developer focused on precision, clarity, and long-term growth.  
-I build systems that are clean, scalable, and intentional.
-
-Discipline over motivation.  
-Consistency over noise.
+Focused on building clean, scalable, and meaningful systems.  
+Long-term growth > Short-term hype.  
+Process > Motivation.
 
 ---
 
 ## ⚔️ Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,python,firebase,git,github,npm,jest" />
-
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,python,firebase,git,github,npm,jest" />
 </p>
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calehenitsue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calehenitsue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calehenitsue&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calehenitsue&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://streak-stats.demolab.com?user=calehenitsue&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=calehenitsue&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://raw.githubusercontent.com/calehenitsue/calehenitsue/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+> ⚠️ To activate the snake animation, create a GitHub Action using:
+> https://github.com/Platane/snk  
+> It will automatically generate the snake animation in your repository.
 
 ---
 
@@ -50,13 +55,13 @@ Consistency over noise.
 
 <p align="center">
   <a href="https://calehenitsue.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Enter%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📬 Contact
+## 📬 Connect
 
 <p align="center">
   <a href="https://github.com/calehenitsue">
@@ -70,5 +75,5 @@ Consistency over noise.
 ---
 
 <p align="center">
-  <sub>Built with intention. Refined through iteration.</sub>
+  <sub>Refined daily. Built intentionally. Becoming without limits.</sub>
 </p>
