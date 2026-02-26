@@ -26,13 +26,6 @@ Consistency over noise.
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,python,firebase,git,github,npm,jest&perline=6" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/calehenitsue/calehenitsue/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
