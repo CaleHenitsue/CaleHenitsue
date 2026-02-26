@@ -1,79 +1,72 @@
-# ⚫ Kyaw Zay Ya
+# 👋 Hi, I'm Kyaw Zay Ya  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Web+Developer;Future+Full-Stack+Engineer;Building+with+Precision;I+Can+Be+Anyone" />
+  <b>Web Developer</b> • Lifelong Learner • Future Full-Stack Engineer  
 </p>
 
 <p align="center">
-  <em>Discipline • Consistency • Evolution</em>
-</p>
-
----
-
-## 🧠 Identity
-
-Focused on building clean, scalable, and meaningful systems.  
-Long-term growth > Short-term hype.  
-Process > Motivation.
-
----
-
-## ⚔️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,python,firebase,git,github,npm,jest" />
+  <em>“I can be anyone.”</em>
 </p>
 
 ---
 
-## 📊 Performance Metrics
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calehenitsue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calehenitsue&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=calehenitsue&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
+- 💻 Passionate about building interactive and meaningful web applications  
+- 🌱 Continuously improving my frontend and backend skills  
+- 🎯 Focused on clean UI, performance, and scalable systems  
+- 🔥 Committed to long-term growth through consistent effort  
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠 Tech Stack
+
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?logo=tailwindcss)
+
+### 🔥 Backend & Services
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python)
+![Firebase](https://img.shields.io/badge/Firebase-BaaS-FFCA28?logo=firebase)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-181717?logo=github)
+![npm](https://img.shields.io/badge/npm-PackageManager-CB3837?logo=npm)
+![Jest](https://img.shields.io/badge/Jest-Testing-C21325?logo=jest)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calehenitsue/calehenitsue/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calehenitsue&show_icons=true&theme=tokyonight" />
 </p>
 
-> ⚠️ To activate the snake animation, create a GitHub Action using:
-> https://github.com/Platane/snk  
-> It will automatically generate the snake animation in your repository.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calehenitsue&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://calehenitsue.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🔗 **Website**  
+https://calehenitsue.github.io/My-Portfolio/
 
 ---
 
-## 📬 Connect
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/calehenitsue">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:kyawzaya3578@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 💼 GitHub: https://github.com/calehenitsue  
+- 📫 Email: kyawzaya3578@gmail.com  
 
 ---
 
 <p align="center">
-  <sub>Refined daily. Built intentionally. Becoming without limits.</sub>
+  <b>Small improvements. Every day.</b>
 </p>
