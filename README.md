@@ -1,7 +1,7 @@
 # ⚫ Kyaw Zay Ya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Web+Developer;Full-Stack+Engineer;Building+with+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Web+Full-Stack+Developer;Building+with+Purpose" />
 </p>
 
 <p align="center">
